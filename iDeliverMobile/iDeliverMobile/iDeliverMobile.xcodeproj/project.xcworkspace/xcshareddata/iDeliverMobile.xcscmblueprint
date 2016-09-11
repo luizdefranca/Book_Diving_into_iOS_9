@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "445A420AEBC08BB7B61D4F892B415912D7DD5975",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "445A420AEBC08BB7B61D4F892B415912D7DD5975" : 0,
+    "382E059F8CDBCB7DB5FC09AB7DD8BA81276B1607" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56B7C822-194C-4F39-A1D8-78E663215CE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "445A420AEBC08BB7B61D4F892B415912D7DD5975" : "Book_Diving_into_iOS_9\/",
+    "382E059F8CDBCB7DB5FC09AB7DD8BA81276B1607" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iDeliverMobile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iDeliverMobile\/iDeliverMobile\/iDeliverMobile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luizdefranca\/aulasProgramacao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "382E059F8CDBCB7DB5FC09AB7DD8BA81276B1607"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luizdefranca\/Book_Diving_into_iOS_9.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "445A420AEBC08BB7B61D4F892B415912D7DD5975"
+    }
+  ]
+}
